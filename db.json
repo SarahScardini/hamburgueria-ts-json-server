@@ -73,30 +73,44 @@
     {
       "id": 11,
       "name": "Lanche Vegano - Molho de Mostarda",
-      "category": "Sanduíches",
+      "category": "Sanduiches",
       "price": 17,
       "img": "https://i.ibb.co/YDnB1wz/vegano-com-molho-de-mostarda.png"
     },
     {
       "id": 12,
       "name": "Hamburguer de Frango",
-      "category": "Sanduíches",
+      "category": "Sanduiches",
       "price": 14,
       "img": "https://i.ibb.co/wRjrwCy/Hamburguer-de-frango-picante.png"
     },
     {
       "id": 13,
       "name": "Super Burguer",
-      "category": "Sanduíches",
+      "category": "Sanduiches",
       "price": 20,
       "img": "https://i.ibb.co/wstNGfd/Hamb-rguer-super-bife.png"
     },
     {
       "id": 14,
       "name": "Super Burguer de Costela",
-      "category": "Sanduíches",
+      "category": "Sanduiches",
       "price": 25,
       "img": "https://i.ibb.co/Ny6rBnG/especial.png"
+    },
+    {
+      "id": 15,
+      "name": "Sunday",
+      "category": "Sobremesa",
+      "price": 10,
+      "img": "https://i.ibb.co/SVBK0yg/Sunday.png"
+    },
+    {
+      "id": 16,
+      "name": "Combo Kenzie",
+      "category": "Combos",
+      "price": 26,
+      "img": "https://i.ibb.co/TtjMVRz/combo.png"
     }
   ],
   "users": [
